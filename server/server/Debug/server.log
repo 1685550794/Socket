@@ -1,0 +1,24 @@
+﻿Build started 2017/11/9 19:04:06.
+     1>Project "G:\无人艇\网络编程\Visual Studio\2017.11.10\server\server\server.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\server.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         e:\visual studio\install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\无人艇\网络编程\Visual Studio\2017.11.10\server\Debug\server.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\server.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\无人艇\网络编程\Visual Studio\2017.11.10\server\Debug\server.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\无人艇\网络编程\Visual Studio\2017.11.10\server\Debug\server.lib" /MACHINE:X86 Debug\chaintable.obj
+         Debug\server.obj
+         Debug\stdafx.obj
+         Debug\test.obj
+     1>chaintable.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         server.vcxproj -> G:\无人艇\网络编程\Visual Studio\2017.11.10\server\Debug\server.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\无人艇\网络编程\Visual Studio\2017.11.10\server\Debug\server.exe;#1" /manifest Debug\server.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\server.unsuccessfulbuild".
+         Touching "Debug\server.lastbuildstate".
+     1>Done Building Project "G:\无人艇\网络编程\Visual Studio\2017.11.10\server\server\server.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31

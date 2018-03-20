@@ -1,0 +1,23 @@
+﻿Build started 2017-12-06 22:33:15.
+     1>Project "G:\无人艇\网络编程\Visual Studio\2017.12.6\client\client\client.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\client.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         e:\visual studio\install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\无人艇\网络编程\Visual Studio\2017.12.6\client\Debug\client.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\client.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\无人艇\网络编程\Visual Studio\2017.12.6\client\Debug\client.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\无人艇\网络编程\Visual Studio\2017.12.6\client\Debug\client.lib" /MACHINE:X86 Debug\client.obj
+         Debug\stdafx.obj
+         Debug\test.obj
+     1>client.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         client.vcxproj -> G:\无人艇\网络编程\Visual Studio\2017.12.6\client\Debug\client.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\无人艇\网络编程\Visual Studio\2017.12.6\client\Debug\client.exe;#1" /manifest Debug\client.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\client.unsuccessfulbuild".
+         Touching "Debug\client.lastbuildstate".
+     1>Done Building Project "G:\无人艇\网络编程\Visual Studio\2017.12.6\client\client\client.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.51

@@ -1,0 +1,26 @@
+﻿Build started 2018-01-04 14:23:04.
+     1>Project "G:\无人艇\网络编程\Visual Studio\2017.12.8\server\server\server.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\server.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         e:\visual studio\install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\无人艇\网络编程\Visual Studio\2017.12.8\server\Release\server.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\server.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\无人艇\网络编程\Visual Studio\2017.12.8\server\Release\server.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\无人艇\网络编程\Visual Studio\2017.12.8\server\Release\server.lib" /MACHINE:X86 Release\chaintable.obj
+         Release\server.obj
+         Release\stdafx.obj
+         Release\test.obj
+         Generating code
+     1>g:\无人艇\网络编程\visual studio\2017.12.8\server\server\server.cpp(230): warning C4715: 'ThreadFor_ReceiveData' : not all control paths return a value
+         Finished generating code
+         server.vcxproj -> G:\无人艇\网络编程\Visual Studio\2017.12.8\server\Release\server.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\无人艇\网络编程\Visual Studio\2017.12.8\server\Release\server.exe;#1" /manifest Release\server.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\server.unsuccessfulbuild".
+         Touching "Release\server.lastbuildstate".
+     1>Done Building Project "G:\无人艇\网络编程\Visual Studio\2017.12.8\server\server\server.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.61
